@@ -26,4 +26,5 @@ h1 {
     top: 50%;
     left: 30%;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana;
+    box-shadow: 10px 8px 15px rgb(255, 255, 255), 5px 4px 10px rgb(84, 84, 84);
 }
